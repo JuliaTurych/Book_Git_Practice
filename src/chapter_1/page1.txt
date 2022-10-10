@@ -1,0 +1,30 @@
+Git & GitHub Day 1
+____________________________________________________________
+Git & GitHub
+Terminology
+Commit
+Push
+____________________________________________________________
+https://github.com/Cybertek-B24/JavaProgramming_B24
+https://github.com/Cybertek-B24/Selenium
+What is git?
+version control system. Helps keep track of files
+a software used to keep track of changes
+What is github?
+the platform that hosts git repositories (website)
+What is a local repository?
+on your computer the folder thats keeping track of changes
+What is a remote repository?
+the folder on any given platforms, we are using github, Keeps track
+of changes online
+What is commiting?
+Practice
+Make a new package/folder called chapter 2
+Make a new file page 1 put some text
+Make new file page 2 put some text
+Commit both new files
+Push all changes
+-----
+Edit chapter 1, page 2
+Add some more text
+Commit and Push changes
