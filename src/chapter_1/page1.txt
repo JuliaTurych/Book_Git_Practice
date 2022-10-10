@@ -25,6 +25,7 @@ Make new file page 2 put some text
 Commit both new files
 Push all changes
 -----
+
 Edit chapter 1, page 2
 Add some more text
 Commit and Push changes
