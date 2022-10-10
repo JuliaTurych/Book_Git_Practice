@@ -1,0 +1,24 @@
+Git & GitHub 2
+.git folder
+•Local repositories are in the project in a folder called .git, which is a
+hidden folder
+•To see hidden folders on Mac, use this shortcut in the folder:
+Command + Shift + .
+•To see hidden folder on Windows, click on the View tab and show
+Hidden items
+Git ignore file
+•We can ignore files we don’t need to keep track of
+•The .gitignore file allows you to define names of file you don’t want to
+keep track of changes for
+•The .gitignore file is made like any other file
+•Note: You can not un-track a file already been tracked using .gitignore
+file. That's why .gitignore file usually created before anything get
+staged.
+Git in IntelliJ – git ignore
+- To make a .gitignore file in the project right click on the project level -> create new file -> call it .gitignore
+- Add all the files you want to ignore tracking of
+- Files to ignore in a java project:
+- .idea
+- out
+- *.xml
+- *.iml
