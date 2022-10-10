@@ -14,11 +14,3 @@ keep track of changes for
 •Note: You can not un-track a file already been tracked using .gitignore
 file. That's why .gitignore file usually created before anything get
 staged.
-Git in IntelliJ – git ignore
-- To make a .gitignore file in the project right click on the project level -> create new file -> call it .gitignore
-- Add all the files you want to ignore tracking of
-- Files to ignore in a java project:
-- .idea
-- out
-- *.xml
-- *.iml
